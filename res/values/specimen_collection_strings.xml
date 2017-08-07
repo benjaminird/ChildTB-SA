@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright(C) 2015 Interactive Health Solutions, Pvt. Ltd.
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as
+published by the Free Software Foundation; either version 3 of the License (GPLv3), or any later version.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program; if not, write to the Interactive Health Solutions, info@ihsinformatics.com
+You can also access the license on the internet at the address: http://www.gnu.org/licenses/gpl-3.0.html
+
+Interactive Health Solutions, hereby disclaims all copyright interest in this program written by the contributors.
+
+Contributors: Tahira Niazi -->
+
+<resources>
+ 					
+    
+     <string name="specimen_number">Specimen Number</string>
+     <string name="method_specimen">Method of Specimen Collection</string>
+     
+     <string name="lab_test_id">Lab Test ID: (if available)</string>
+    <string name="lab_test_id_hint">Enter Lab ID</string>   
+     <string name="diagnostic_test">Diagnostic Test </string>
+     
+     <string name="period_specimen">When was specimen taken?</string>
+     
+     <string-array name="specimen_number_options">
+
+		<item >-Please Select-</item>
+		<item >1</item>
+		<item >2</item>
+	</string-array>
+	
+     <string-array name="method_specimen_options">
+         <item >-Please Select-</item>
+		<item >Gastric Apiration</item>
+		<item >Sputum</item>
+	</string-array>
+    			
+     <string-array name="diagnostic_test_options">
+         <item >-Please Select-</item>
+		<item >Sputum Smear</item>
+		<item >AFB</item>
+		<item >Culture</item>
+		<item >GeneXpert</item>
+	</string-array>
+				
+       <string-array name="period_specimen_options">
+         <item >-Please Select-</item>
+		<item >Spot (today)</item>
+		<item >1 day ago</item>
+		<item >2 days ago</item>
+		<item >3 or more days ago</item>
+		<item >Unknown</item>
+	</string-array>
+   			
+       
+    
+    
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="date_initiation">Treatment Initiation</string>
+    <string name="date_completion">Date Treatment Completion</string>
+    <string name="loc_treatment">Location of Treatment Initiation</string>
+     <string name="loc_treatment_hint">Enter Location</string>
+    <string name="type_treatment">Type of Treatment	</string>
+
+       <string name="treatment_outcome">Treatment outcome</string>
+    
+     <string-array name="type_treatment_option">
+        <item >-Please Select-</item>
+        <item>DSTB</item>
+        <item>DRTB</item>
+        <item>IPT</item>
+    </string-array>	
+    
+   
+      <string-array name="treatment_outcome_option">
+       <item >-Please Select-</item>
+        <item>Cured</item>
+        <item>Completed Treatment</item>
+        <item>Failure</item>
+        <item>Died</item>
+        <item>Transferred Out</item>
+        <item>Not Evaluated</item>
+    </string-array>	
+    
+     
+      
+     
+</resources>
